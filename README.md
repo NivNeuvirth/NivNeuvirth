@@ -60,7 +60,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🍽️ MealMemo — *Personalized Meal Planner (WIP)*
+#### 🍽️ MealMemo — *Personalized Recipe App*
 - 🧱 Built with Kotlin, MVVM architecture, Coroutines, Retrofit, Room Database, Hilt, and LiveData
 - 🔗 [View on GitHub](https://github.com/NivNeuvirth/MealMemoAndroidApp)
 
